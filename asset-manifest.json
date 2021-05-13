@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dogs-app/static/css/main.css",
+    "main.js": "/dogs-app/static/js/main.js",
+    "main.js.map": "/dogs-app/static/js/main.js.map",
+    "index.html": "/dogs-app/index.html",
+    "static/css/main.css.map": "/dogs-app/static/css/main.css.map",
+    "static/js/main.js.LICENSE.txt": "/dogs-app/static/js/main.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/dogs-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/css/main.css",
+    "static/js/main.js"
+  ]
+}
